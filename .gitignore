@@ -13,12 +13,9 @@ target/
 *.info
 *.properties
 *.jar
+.gitignore
+.gitattributes
 
-#/1.JavaSyntax/
-#/2.JavaCore/
-#/3.JavaMultithreading/
-#/4.JavaCollections/
-#/5.OnlineInternship/
 /out/
 /JavaRushPlugin.properties
 /Instruction.png
